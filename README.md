@@ -1,1 +1,3 @@
 # Indian-Address-Parsing-Normalization-Using-Bi-LSTM-Network
+
+The Address Parsing and Matching System is designed to tackle the challenges of data integration and quality improvement by accurately parsing and matching address data. The system utilizes machine learning and deep learning algorithms to extract address components and reconcile differences in address formats. It aims to enhance data-driven decision-making by providing reliable and standardized address information. The project involves developing an end-to-end solution that can handle large volumes of structured data from multiple sources. The system will be evaluated based on precision, recall, and processing time, and will be compared to existing state-of-the-art methods.
